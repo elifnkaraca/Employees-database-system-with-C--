@@ -1,0 +1,10 @@
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\bin\Debug\ProjectSql.exe.config
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\bin\Debug\ProjectSql.exe
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\bin\Debug\ProjectSql.pdb
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.csprojAssemblyReference.cache
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.Properties.Resources.resources
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.exe
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.pdb
+C:\Users\Elif\source\repos\ProjectSql\ProjectSql\obj\Debug\ProjectSql.Form2.resources
